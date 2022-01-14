@@ -1,7 +1,9 @@
 .DS_Store
 .vscode
+__pycache__
+
 names/
 names.zip
-out.png
-out-wide.png
-out.svg
+
+/*.png
+/*.svg
